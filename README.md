@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BharatMysoori
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Backend and frontend technologies
-- 💞️ I’m looking to collaborate on tech savys
+- 💞️ I’m looking to collaborate for learning
 - 📫 How to reach me mysoori.bharat@gmail.com
 
 <!---
